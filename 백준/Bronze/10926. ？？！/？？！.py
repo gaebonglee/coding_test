@@ -1,0 +1,2 @@
+username = input()
+print(username+"??!")
