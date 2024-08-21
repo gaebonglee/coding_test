@@ -1,2 +1,2 @@
-username = input()
-print(username+"??!")
+
+print(input()+"??!")
